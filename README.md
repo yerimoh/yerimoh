@@ -2,8 +2,8 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=EFBBCF&height=300&section=header&text=Welcome%20to%20Yerim's%20Git&fontSize=60&animation=scaleIn&fontColor=835858)
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yerimoh&show_icons=true&theme=radical)
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yerimoh&show_icons=true&theme=radical&title_color=7F7C82&bg_color=BFA2DB)
+7F7C82
 
 
 **⚙ TECH STACK ⚙**    
