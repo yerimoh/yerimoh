@@ -2,7 +2,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=EFBBCF&height=300&section=header&text=Welcome%20to%20Yerim's%20Git&fontSize=60&animation=scaleIn&fontColor=835858)
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yerimoh&show_icons=true&theme=radical&title_color=7E6BC4&bg_color=FFF5EA%border_color=7E6BC4&text_color=C79ECF&count_private=true&icon_color=142850)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yerimoh&show_icons=true&theme=radical&title_color=7E6BC4&bg_color=FFF5EA%border_color=7E6BC4&text_color=C79ECF&count_private=true&icon_color=FFAA64)
 
 
 
