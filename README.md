@@ -5,8 +5,8 @@
 - 📫 How to reach me bora3328@naver.com
 
 
-https://img.shields.io/badge/-Python-000000?style=flat&logo=Python
-https://img.shields.io/badge/-Python-000000?style=flat&logo=Python
+https://img.shields.io/badge/-Python-000000?style=flat&logo=#3776AB
+https://img.shields.io/badge/-Python-000000?style=flat&logo=#FF6F00
 
 <!---
 yerimoh/yerimoh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
