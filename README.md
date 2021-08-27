@@ -2,11 +2,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=EFBBCF&height=300&section=header&text=Welcome%20to%20Yerim's%20Git&fontSize=60&animation=scaleIn&fontColor=835858)
 
 
-- 👋 Hi, I’m yerimoh
-- 👀 I’m interested in ML,DL
-- 🌱 I’m currently learning OpenCv\V
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me bora3328@naver.com
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yerimoh&show_icons=true&theme=radical)
 
 
 
