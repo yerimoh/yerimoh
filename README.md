@@ -1,5 +1,5 @@
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=EFBBCF&height=300&section=header&text=Welcome%20to%20Yerim's%20Git&fontSize=60&animation=scaleIn&fontColor=8675A9)
+![header](https://capsule-render.vercel.app/api?type=waving&color=EFBBCF&height=300&section=header&text=Welcome%20to%20Yerim's%20Git&fontSize=60&animation=scaleIn&fontColor=968C83)
 
 
 - 👋 Hi, I’m yerimoh
