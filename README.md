@@ -4,6 +4,10 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me bora3328@naver.com
 
+
+https://img.shields.io/badge/-Python-000000?style=flat&logo=Python
+https://img.shields.io/badge/-Python-000000?style=flat&logo=Python
+
 <!---
 yerimoh/yerimoh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
