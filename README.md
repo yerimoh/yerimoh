@@ -14,6 +14,11 @@ visit my <a href="https://yerimoh.github.io/" target="_blank"><img src="https://
        
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yerimoh&show_icons=true&theme=radical&title_color=7E6BC4&bg_color=FFF5EA%border_color=7E6BC4&text_color=C79ECF&count_private=true&icon_color=4A266A)
+       
+       
+ | <a href="https://github.com/yerimoh/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=yerimoh&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yerimoh&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |      
+       
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=yerimOh&column=4&margin-w=15&margin-h=15)
 
