@@ -10,12 +10,12 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=EFBBCF&height=200&section=header&text=Welcome%20to%20Yerim's%20Git&fontSize=60&animation=scaleIn&fontColor=835858)
 
-
-
-## 💜 IF YOU WANT TO KNOW MORE ABOUT ME💜         
-
-
 </div>
+
+## 💜ABOUT ME💜         
+
+
+
        
 * 🖐🏻 Hi I'm NLP developer       
 * 🧸 if you want to know everything about me visit my [**BLOG**](https://yerimoh.github.io/)
