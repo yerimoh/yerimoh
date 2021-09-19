@@ -20,9 +20,10 @@
 * 🖐🏻 Hi I'm NLP developer       
 * 🧸 if you want to know everything about me visit my [**BLOG**](https://yerimoh.github.io/)
 * 📫 You can reach me with [@5yerim__](https://www.instagram.com/5yerim__/) on instagram 
-* 🌱 I’m currently learning [NLP](https://yerimoh.github.io/categories/Deep%20Learning/) in **NVIDIA**     
+* 👩🏻‍💻 I’m currently learning HARD about [NLP](https://yerimoh.github.io/categories/Deep%20Learning/) in **NVIDIA**     
 * 🏆 The **[competition](https://eswcontest.or.kr/competition/contest_02.php)** that's going on right now is  about **Embedded** with **OpenCV**
-* 💬 Ask me about anything [here](https://github.com/yerimoh/yerimoh.github.io/issues)
+* 👯 I’m looking to collaborate on anything free and open source
+
        
 <div align="center">      
 
