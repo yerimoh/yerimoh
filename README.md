@@ -11,11 +11,11 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=EFBBCF&height=200&section=header&text=Welcome%20to%20Yerim's%20Git&fontSize=60&animation=scaleIn&fontColor=835858)
 
 
-
 ## 💜 INTRODUCE ABOUT MYSELF 💜         
 
 </div>
 
+  <a href="https://stephenajulu.com"><img src="https://user-images.githubusercontent.com/76824611/133933728-4bb4a26e-52a2-4a46-8ab3-489c241d9ce7.gif" align="right" width="200px"></a>
        
 * 🖐🏻 Hi I'm **NLP** developer       
 * 🧸 if you want to know everything about me visit my [**BLOG**](https://yerimoh.github.io/)
