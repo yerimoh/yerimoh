@@ -1,6 +1,10 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=EFBBCF&height=300&section=header&text=Welcome%20to%20Yerim's%20Git&fontSize=60&animation=scaleIn&fontColor=835858)
 
+
+<div align="center">
+
+
 ## 💜 IF YOU WANT TO KNOW MORE ABOUT ME💜         
 
 👉🏻  <a href="https://yerimoh.github.io/" target="_blank"><img src="https://img.shields.io/badge/BLOG-9A0F98?style=flat-square&logo=Blogger&logoColor=white"/></a> 
@@ -27,3 +31,6 @@
 yerimoh/yerimoh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+       
+    
+</div>
