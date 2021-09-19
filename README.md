@@ -19,7 +19,7 @@
        
 * 🖐🏻 Hi I'm **NLP** developer       
 * 🧸 if you want to know everything about me visit my [**BLOG**](https://yerimoh.github.io/)
-* 📫 You can reach me with [@5yerim__](https://www.instagram.com/5yerim__/) on instagram 
+* 📫 You can reach me with [@5yerim__](https://www.instagram.com/5yerim__/) on instagram (Feel free to contact me)
 * 👩🏻‍💻 I’m currently learning HARD about [GPT](https://yerimoh.github.io/categories/Deep%20Learning/) in **NVIDIA**     
 * 🏆 The **[competition](https://eswcontest.or.kr/competition/contest_02.php)** that's going on right now is  about **Embedded** with **OpenCV**
 * 👯 I’m looking to collaborate on anything free and open source
