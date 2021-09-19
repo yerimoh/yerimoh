@@ -8,10 +8,11 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yerimoh&show_icons=true&theme=radical&title_color=7E6BC4&bg_color=FFF5EA%border_color=7E6BC4&text_color=C79ECF&count_private=true&icon_color=4A266A)
 
-![trophy](https://github-profile-trophy.vercel.app/?username=yerimOh)
+![trophy](https://github-profile-trophy.vercel.app/?username=yerimOh&column=4&margin-w=15&margin-h=15)
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fyerimoh.github.io&count_bg=%23A781D1&title_bg=%23555555&icon=icq.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
+https://github-profile-trophy.vercel.app/?username=ryo-ma&margin-h=15
 
 
 --- 
