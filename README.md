@@ -5,7 +5,7 @@
           
 </div>        
        
-<div align="center">
+<div align="center"> 
  
  
 ![header](https://capsule-render.vercel.app/api?type=waving&color=EFBBCF&height=200&section=header&text=Welcome%20to%20Yerim's%20Git&fontSize=60&animation=scaleIn&fontColor=835858)
