@@ -13,7 +13,7 @@
  
 ## 💜 INTRODUCE ABOUT MYSELF 💜         
 
-</div>  
+</div>   
  
   <a href="https://stephenajulu.com"><img src="https://user-images.githubusercontent.com/76824611/133933728-4bb4a26e-52a2-4a46-8ab3-489c241d9ce7.gif" align="right" width="200px"></a>
        
