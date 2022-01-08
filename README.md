@@ -23,7 +23,7 @@
 * 👩🏻‍💻 I’m currently learning HARD about [GPT](https://yerimoh.github.io/categories/Deep%20Learning/) in **NVIDIA**     
 * 🏆 The **[competition](https://eswcontest.or.kr/competition/contest_02.php)** that's going on right now is  about **Embedded** with **OpenCV**
 * 👯 I’m looking to collaborate on anything free and open source
- 
+  
        
 <div align="center">      
 
