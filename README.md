@@ -15,7 +15,7 @@
 
 </div>    
  
-  <a href="https://stephenajulu.com"><img src="https://user-images.githubusercontent.com/76824611/133933728-4bb4a26e-52a2-4a46-8ab3-489c241d9ce7.gif" align="right" width="20px"></a> 
+  <a href="https://stephenajulu.com"><img src="https://user-images.githubusercontent.com/76824611/133933728-4bb4a26e-52a2-4a46-8ab3-489c241d9ce7.gif" align="right"  width="30" height="30"></a> 
        
 * 🖐🏻 Hi I'm **NLP** developer       
 * 🧸 if you want to know everything about me visit my [**BLOG**](https://yerimoh.github.io/)
