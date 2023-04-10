@@ -21,7 +21,7 @@
 * 🧸 if you want to know everything about me visit my [**BLOG**](https://yerimoh.github.io/)
 * 📫 You can reach me with [@_oyerim_](https://www.instagram.com/_oyerim_/) on instagram (Feel free to contact me)
 * 👩🏻‍💻 I’m currently learning HARD about [GPT](https://yerimoh.github.io/categories/Deep%20Learning/) in **NVIDIA**     
-* 🖥️ I’m currently implement **NLP base model** (Word2vec, fastText, CNN, RNN, Transformer)      
+* 🖥️ I’m currently implement **NLP base model** (Word2vec, fastText, CNN, RNN, Transformer)        
 and code is [here](https://github.com/yerimoh/NLP_model_Implement).     
 * 👯 I’m looking to collaborate on anything free and open source
   
