@@ -1,5 +1,5 @@
 
-## 💜 INTRODUCE ABOUT MYSELF 💜         
+##  INTRODUCE ABOUT MYSELF       
 
 </div>    
  
