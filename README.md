@@ -7,8 +7,8 @@
        
 * 🖐🏻 Hi I'm **NLP** developer       
 * 🧸 if you want to know everything about me visit my [**BLOG**](https://yerimoh.github.io/)
-* 📫 You can reach me with [@_oyerim_](https://www.instagram.com/_oyerim_/) on instagram (Feel free to contact me)
-* 👩🏻‍💻 I’m currently in [DILab](http://dilab.korea.ac.kr/), Korea University       
+* 📫 You can reach me with [email](yerim.oh@vision.snu.ac.kr) on instagram (Feel free to contact me)
+* 👩🏻‍💻 I’m currently in [SNUVL](https://vision.snu.ac.kr/), Seoul National University       
 * 👯 I’m looking to collaborate on anything free and open source
   
         
